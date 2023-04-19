@@ -1,4 +1,3 @@
-print('Hello world') 
 import tkinter as tk
 
 def submit_order():
