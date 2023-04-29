@@ -1,0 +1,1 @@
+print(int(input('What is X: ')) + int(input('What is Y: ')))
